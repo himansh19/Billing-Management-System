@@ -1,5 +1,7 @@
 # Billing-Management-System
 
+NOTE: When you run above python file it will automatically create customer database if not exist and from next store all data of customer in that.
+
 ## Description:
 Developed an interactive billing management system using Python and MySQL with a user-friendly interface built using the Tkinter library. The system offers extensive functionality for managing customer orders, including the ability to:
 
